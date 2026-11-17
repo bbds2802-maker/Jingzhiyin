@@ -1,0 +1,726 @@
+{
+  "description": "51张网站原始导出的静态PNG；预览仅供挑选素材。",
+  "assets": [
+    {
+      "file": "assets/B01-20261111-01-暖白柔粉球体.png",
+      "batch": "B01",
+      "name": "01-暖白柔粉球体",
+      "style": "dithering",
+      "colors": [
+        "#F0EBEB",
+        "#C3A1AB"
+      ],
+      "use": "封面、章节标题旁的视觉点缀",
+      "experimental": false,
+      "source": "https://shaders.fluxpic.com/dithering"
+    },
+    {
+      "file": "assets/B01-20261111-02-暖灰涟漪.png",
+      "batch": "B01",
+      "name": "02-暖灰涟漪",
+      "style": "dithering",
+      "colors": [
+        "#F0EBEB",
+        "#B8A8AD"
+      ],
+      "use": "护理流程、时间与节奏主题",
+      "experimental": false,
+      "source": "https://shaders.fluxpic.com/dithering"
+    },
+    {
+      "file": "assets/B01-20261111-03-玫瑰旋涡.png",
+      "batch": "B01",
+      "name": "03-玫瑰旋涡",
+      "style": "dithering",
+      "colors": [
+        "#EEDDE1",
+        "#956776"
+      ],
+      "use": "品牌章节、局部纹理装饰",
+      "experimental": false,
+      "source": "https://shaders.fluxpic.com/dithering"
+    },
+    {
+      "file": "assets/B01-20261111-04-灰褐正弦波.png",
+      "batch": "B01",
+      "name": "04-灰褐正弦波",
+      "style": "dithering",
+      "colors": [
+        "#DFD6D9",
+        "#807578"
+      ],
+      "use": "章节过渡、宽幅背景",
+      "experimental": false,
+      "source": "https://shaders.fluxpic.com/dithering"
+    },
+    {
+      "file": "assets/B01-20261111-05-高光灰褐扭曲.png",
+      "batch": "B01",
+      "name": "05-高光灰褐扭曲",
+      "style": "dithering",
+      "colors": [
+        "#FFFFFF",
+        "#6B6263"
+      ],
+      "use": "材质说明、对比鲜明的装饰",
+      "experimental": false,
+      "source": "https://shaders.fluxpic.com/dithering"
+    },
+    {
+      "file": "assets/B01-20261111-06-暖白灰绿球体.png",
+      "batch": "B01",
+      "name": "06-暖白灰绿球体",
+      "style": "dithering",
+      "colors": [
+        "#F0EBEB",
+        "#6B9583"
+      ],
+      "use": "连接状态或设备章节的辅助点缀；灰绿辅助探索，不属于暖白粉色核心配色",
+      "experimental": false,
+      "source": "https://shaders.fluxpic.com/dithering"
+    },
+    {
+      "file": "assets/B02-20261111-01-暖白柔粉-球体.png",
+      "batch": "B02",
+      "name": "01-暖白柔粉-球体",
+      "style": "dithering",
+      "colors": [
+        "#F0EBEB",
+        "#C3A1AB"
+      ],
+      "use": "封面、章节标题旁的局部点缀",
+      "experimental": false,
+      "source": "https://shaders.fluxpic.com/dithering"
+    },
+    {
+      "file": "assets/B02-20261111-02-暖白柔粉-扭曲.png",
+      "batch": "B02",
+      "name": "02-暖白柔粉-扭曲",
+      "style": "dithering",
+      "colors": [
+        "#F0EBEB",
+        "#C3A1AB"
+      ],
+      "use": "材质、能量与变化主题的局部视觉",
+      "experimental": false,
+      "source": "https://shaders.fluxpic.com/dithering"
+    },
+    {
+      "file": "assets/B02-20261111-03-暖白柔粉-波形.png",
+      "batch": "B02",
+      "name": "03-暖白柔粉-波形",
+      "style": "dithering",
+      "colors": [
+        "#F0EBEB",
+        "#C3A1AB"
+      ],
+      "use": "章节过渡、宽幅装饰与节奏主题",
+      "experimental": false,
+      "source": "https://shaders.fluxpic.com/dithering"
+    },
+    {
+      "file": "assets/B02-20261111-04-暖白柔粉-涟漪.png",
+      "batch": "B02",
+      "name": "04-暖白柔粉-涟漪",
+      "style": "dithering",
+      "colors": [
+        "#F0EBEB",
+        "#C3A1AB"
+      ],
+      "use": "护理步骤、时间与节奏主题",
+      "experimental": false,
+      "source": "https://shaders.fluxpic.com/dithering"
+    },
+    {
+      "file": "assets/B02-20261111-05-暖白柔粉-颗粒点阵.png",
+      "batch": "B02",
+      "name": "05-暖白柔粉-颗粒点阵",
+      "style": "dithering",
+      "colors": [
+        "#F0EBEB",
+        "#C3A1AB"
+      ],
+      "use": "局部肌理",
+      "experimental": false,
+      "source": "https://shaders.fluxpic.com/dithering"
+    },
+    {
+      "file": "assets/B02-20261111-06-暖白柔粉-旋涡.png",
+      "batch": "B02",
+      "name": "06-暖白柔粉-旋涡",
+      "style": "dithering",
+      "colors": [
+        "#F0EBEB",
+        "#C3A1AB"
+      ],
+      "use": "品牌章节、主题页与旋转节奏装饰",
+      "experimental": false,
+      "source": "https://shaders.fluxpic.com/dithering"
+    },
+    {
+      "file": "assets/B02-20261111-07-浅粉玫瑰-球体.png",
+      "batch": "B02",
+      "name": "07-浅粉玫瑰-球体",
+      "style": "dithering",
+      "colors": [
+        "#EEDDE1",
+        "#956776"
+      ],
+      "use": "封面、章节标题旁的局部点缀",
+      "experimental": false,
+      "source": "https://shaders.fluxpic.com/dithering"
+    },
+    {
+      "file": "assets/B02-20261111-08-浅粉玫瑰-扭曲.png",
+      "batch": "B02",
+      "name": "08-浅粉玫瑰-扭曲",
+      "style": "dithering",
+      "colors": [
+        "#EEDDE1",
+        "#956776"
+      ],
+      "use": "材质、能量与变化主题的局部视觉",
+      "experimental": false,
+      "source": "https://shaders.fluxpic.com/dithering"
+    },
+    {
+      "file": "assets/B02-20261111-09-浅粉玫瑰-波形.png",
+      "batch": "B02",
+      "name": "09-浅粉玫瑰-波形",
+      "style": "dithering",
+      "colors": [
+        "#EEDDE1",
+        "#956776"
+      ],
+      "use": "章节过渡、宽幅装饰与节奏主题",
+      "experimental": false,
+      "source": "https://shaders.fluxpic.com/dithering"
+    },
+    {
+      "file": "assets/B02-20261111-10-浅粉玫瑰-涟漪.png",
+      "batch": "B02",
+      "name": "10-浅粉玫瑰-涟漪",
+      "style": "dithering",
+      "colors": [
+        "#EEDDE1",
+        "#956776"
+      ],
+      "use": "护理步骤、时间与节奏主题",
+      "experimental": false,
+      "source": "https://shaders.fluxpic.com/dithering"
+    },
+    {
+      "file": "assets/B02-20261111-11-浅粉玫瑰-颗粒点阵.png",
+      "batch": "B02",
+      "name": "11-浅粉玫瑰-颗粒点阵",
+      "style": "dithering",
+      "colors": [
+        "#EEDDE1",
+        "#956776"
+      ],
+      "use": "局部肌理",
+      "experimental": false,
+      "source": "https://shaders.fluxpic.com/dithering"
+    },
+    {
+      "file": "assets/B02-20261111-12-浅粉玫瑰-旋涡.png",
+      "batch": "B02",
+      "name": "12-浅粉玫瑰-旋涡",
+      "style": "dithering",
+      "colors": [
+        "#EEDDE1",
+        "#956776"
+      ],
+      "use": "品牌章节、主题页与旋转节奏装饰",
+      "experimental": false,
+      "source": "https://shaders.fluxpic.com/dithering"
+    },
+    {
+      "file": "assets/B02-20261111-13-暖白灰粉-球体.png",
+      "batch": "B02",
+      "name": "13-暖白灰粉-球体",
+      "style": "dithering",
+      "colors": [
+        "#F0EBEB",
+        "#B8A8AD"
+      ],
+      "use": "封面、章节标题旁的局部点缀",
+      "experimental": false,
+      "source": "https://shaders.fluxpic.com/dithering"
+    },
+    {
+      "file": "assets/B02-20261111-14-暖白灰粉-扭曲.png",
+      "batch": "B02",
+      "name": "14-暖白灰粉-扭曲",
+      "style": "dithering",
+      "colors": [
+        "#F0EBEB",
+        "#B8A8AD"
+      ],
+      "use": "材质、能量与变化主题的局部视觉",
+      "experimental": false,
+      "source": "https://shaders.fluxpic.com/dithering"
+    },
+    {
+      "file": "assets/B02-20261111-15-暖白灰粉-波形.png",
+      "batch": "B02",
+      "name": "15-暖白灰粉-波形",
+      "style": "dithering",
+      "colors": [
+        "#F0EBEB",
+        "#B8A8AD"
+      ],
+      "use": "章节过渡、宽幅装饰与节奏主题",
+      "experimental": false,
+      "source": "https://shaders.fluxpic.com/dithering"
+    },
+    {
+      "file": "assets/B02-20261111-16-暖白灰粉-涟漪.png",
+      "batch": "B02",
+      "name": "16-暖白灰粉-涟漪",
+      "style": "dithering",
+      "colors": [
+        "#F0EBEB",
+        "#B8A8AD"
+      ],
+      "use": "护理步骤、时间与节奏主题",
+      "experimental": false,
+      "source": "https://shaders.fluxpic.com/dithering"
+    },
+    {
+      "file": "assets/B02-20261111-17-暖白灰粉-颗粒点阵.png",
+      "batch": "B02",
+      "name": "17-暖白灰粉-颗粒点阵",
+      "style": "dithering",
+      "colors": [
+        "#F0EBEB",
+        "#B8A8AD"
+      ],
+      "use": "局部肌理",
+      "experimental": false,
+      "source": "https://shaders.fluxpic.com/dithering"
+    },
+    {
+      "file": "assets/B02-20261111-18-暖白灰粉-旋涡.png",
+      "batch": "B02",
+      "name": "18-暖白灰粉-旋涡",
+      "style": "dithering",
+      "colors": [
+        "#F0EBEB",
+        "#B8A8AD"
+      ],
+      "use": "品牌章节、主题页与旋转节奏装饰",
+      "experimental": false,
+      "source": "https://shaders.fluxpic.com/dithering"
+    },
+    {
+      "file": "assets/B02-20261111-19-暖白浅灰粉-球体.png",
+      "batch": "B02",
+      "name": "19-暖白浅灰粉-球体",
+      "style": "dithering",
+      "colors": [
+        "#F0EBEB",
+        "#DFD6D9"
+      ],
+      "use": "封面、章节标题旁的局部点缀",
+      "experimental": false,
+      "source": "https://shaders.fluxpic.com/dithering"
+    },
+    {
+      "file": "assets/B02-20261111-20-暖白浅灰粉-扭曲.png",
+      "batch": "B02",
+      "name": "20-暖白浅灰粉-扭曲",
+      "style": "dithering",
+      "colors": [
+        "#F0EBEB",
+        "#DFD6D9"
+      ],
+      "use": "材质、能量与变化主题的局部视觉",
+      "experimental": false,
+      "source": "https://shaders.fluxpic.com/dithering"
+    },
+    {
+      "file": "assets/B02-20261111-21-暖白浅灰粉-波形.png",
+      "batch": "B02",
+      "name": "21-暖白浅灰粉-波形",
+      "style": "dithering",
+      "colors": [
+        "#F0EBEB",
+        "#DFD6D9"
+      ],
+      "use": "章节过渡、宽幅装饰与节奏主题",
+      "experimental": false,
+      "source": "https://shaders.fluxpic.com/dithering"
+    },
+    {
+      "file": "assets/B02-20261111-22-暖白浅灰粉-涟漪.png",
+      "batch": "B02",
+      "name": "22-暖白浅灰粉-涟漪",
+      "style": "dithering",
+      "colors": [
+        "#F0EBEB",
+        "#DFD6D9"
+      ],
+      "use": "护理步骤、时间与节奏主题",
+      "experimental": false,
+      "source": "https://shaders.fluxpic.com/dithering"
+    },
+    {
+      "file": "assets/B02-20261111-23-暖白浅灰粉-颗粒点阵.png",
+      "batch": "B02",
+      "name": "23-暖白浅灰粉-颗粒点阵",
+      "style": "dithering",
+      "colors": [
+        "#F0EBEB",
+        "#DFD6D9"
+      ],
+      "use": "局部肌理",
+      "experimental": false,
+      "source": "https://shaders.fluxpic.com/dithering"
+    },
+    {
+      "file": "assets/B02-20261111-24-暖白浅灰粉-旋涡.png",
+      "batch": "B02",
+      "name": "24-暖白浅灰粉-旋涡",
+      "style": "dithering",
+      "colors": [
+        "#F0EBEB",
+        "#DFD6D9"
+      ],
+      "use": "品牌章节、主题页与旋转节奏装饰",
+      "experimental": false,
+      "source": "https://shaders.fluxpic.com/dithering"
+    },
+    {
+      "file": "assets/B03-20261112-01-柔粉流动.png",
+      "batch": "B03",
+      "name": "01-柔粉流动",
+      "style": "warp",
+      "colors": [
+        "#F0EBEB",
+        "#C3A1AB",
+        "#EEDDE1",
+        "#956776"
+      ],
+      "use": "封面、材质与流动主题的局部视觉",
+      "experimental": false,
+      "source": "https://shaders.fluxpic.com/warp"
+    },
+    {
+      "file": "assets/B03-20261112-02-柔粉网格渐变.png",
+      "batch": "B03",
+      "name": "02-柔粉网格渐变",
+      "style": "mesh-gradient",
+      "colors": [
+        "#F0EBEB",
+        "#C3A1AB",
+        "#EEDDE1",
+        "#DFD6D9"
+      ],
+      "use": "柔和背景、章节过渡与留白区域",
+      "experimental": false,
+      "source": "https://shaders.fluxpic.com/mesh-gradient"
+    },
+    {
+      "file": "assets/B03-20261112-03-静态柔粉渐变.png",
+      "batch": "B03",
+      "name": "03-静态柔粉渐变",
+      "style": "static-mesh-gradient",
+      "colors": [
+        "#F0EBEB",
+        "#C3A1AB",
+        "#EEDDE1",
+        "#DFD6D9"
+      ],
+      "use": "静态背景、品牌标题与章节过渡",
+      "experimental": false,
+      "source": "https://shaders.fluxpic.com/static-mesh-gradient"
+    },
+    {
+      "file": "assets/B03-20261112-04-粉色径向光晕.png",
+      "batch": "B03",
+      "name": "04-粉色径向光晕",
+      "style": "static-radial-gradient",
+      "colors": [
+        "#F0EBEB",
+        "#C3A1AB",
+        "#EEDDE1"
+      ],
+      "use": "标题旁光晕、产品重点与局部点缀",
+      "experimental": false,
+      "source": "https://shaders.fluxpic.com/static-radial-gradient"
+    },
+    {
+      "file": "assets/B03-20261112-05-颗粒渐变.png",
+      "batch": "B03",
+      "name": "05-颗粒渐变",
+      "style": "grain-gradient",
+      "colors": [
+        "#F0EBEB",
+        "#C3A1AB",
+        "#EEDDE1",
+        "#DFD6D9",
+        "#956776"
+      ],
+      "use": "颗粒肌理、柔和背景与材质说明",
+      "experimental": false,
+      "source": "https://shaders.fluxpic.com/grain-gradient"
+    },
+    {
+      "file": "assets/B03-20261112-06-粉色轨道.png",
+      "batch": "B03",
+      "name": "06-粉色轨道",
+      "style": "dot-orbit",
+      "colors": [
+        "#F0EBEB",
+        "#C3A1AB",
+        "#EEDDE1",
+        "#DFD6D9",
+        "#956776",
+        "#B8A8AD"
+      ],
+      "use": "节奏、连接与粒子主题的装饰",
+      "experimental": false,
+      "source": "https://shaders.fluxpic.com/dot-orbit"
+    },
+    {
+      "file": "assets/B03-20261112-07-规则点阵.png",
+      "batch": "B03",
+      "name": "07-规则点阵",
+      "style": "dot-grid",
+      "colors": [
+        "#F0EBEB",
+        "#C3A1AB",
+        "#956776"
+      ],
+      "use": "规则背景与轻量纹理装饰",
+      "experimental": false,
+      "source": "https://shaders.fluxpic.com/dot-grid"
+    },
+    {
+      "file": "assets/B03-20261112-08-粉色几何.png",
+      "batch": "B03",
+      "name": "08-粉色几何",
+      "style": "voronoi",
+      "colors": [
+        "#C3A1AB",
+        "#EEDDE1",
+        "#F0EBEB",
+        "#FFFFFF"
+      ],
+      "use": "几何章节、局部肌理与结构主题",
+      "experimental": false,
+      "source": "https://shaders.fluxpic.com/voronoi"
+    },
+    {
+      "file": "assets/B03-20261112-09-几何波纹.png",
+      "batch": "B03",
+      "name": "09-几何波纹",
+      "style": "waves",
+      "colors": [
+        "#C3A1AB",
+        "#F0EBEB"
+      ],
+      "use": "章节过渡、宽幅装饰与节奏主题",
+      "experimental": false,
+      "source": "https://shaders.fluxpic.com/waves"
+    },
+    {
+      "file": "assets/B03-20261112-10-柔粉云雾.png",
+      "batch": "B03",
+      "name": "10-柔粉云雾",
+      "style": "perlin-noise",
+      "colors": [
+        "#F0EBEB",
+        "#C3A1AB"
+      ],
+      "use": "云雾肌理与局部背景",
+      "experimental": false,
+      "source": "https://shaders.fluxpic.com/perlin-noise"
+    },
+    {
+      "file": "assets/B03-20261112-11-有机斑纹.png",
+      "batch": "B03",
+      "name": "11-有机斑纹",
+      "style": "simplex-noise",
+      "colors": [
+        "#F0EBEB",
+        "#C3A1AB",
+        "#EEDDE1",
+        "#DFD6D9"
+      ],
+      "use": "有机图案、局部肌理与材质主题",
+      "experimental": false,
+      "source": "https://shaders.fluxpic.com/simplex-noise"
+    },
+    {
+      "file": "assets/B03-20261112-12-柔粉神经纹理.png",
+      "batch": "B03",
+      "name": "12-柔粉神经纹理",
+      "style": "neuro-noise",
+      "colors": [
+        "#F0EBEB",
+        "#EEDDE1",
+        "#C3A1AB"
+      ],
+      "use": "柔光、连接与能量主题的视觉",
+      "experimental": false,
+      "source": "https://shaders.fluxpic.com/neuro-noise"
+    },
+    {
+      "file": "assets/B03-20261112-13-柔粉烟圈.png",
+      "batch": "B03",
+      "name": "13-柔粉烟圈",
+      "style": "smoke-ring",
+      "colors": [
+        "#F0EBEB",
+        "#C3A1AB"
+      ],
+      "use": "局部烟圈、中心焦点与柔和装饰",
+      "experimental": false,
+      "source": "https://shaders.fluxpic.com/smoke-ring"
+    },
+    {
+      "file": "assets/B03-20261112-14-柔软球团.png",
+      "batch": "B03",
+      "name": "14-柔软球团",
+      "style": "metaballs",
+      "colors": [
+        "#F0EBEB",
+        "#C3A1AB",
+        "#EEDDE1",
+        "#DFD6D9",
+        "#B8A8AD",
+        "#956776"
+      ],
+      "use": "柔软球团、产品点缀与形态探索",
+      "experimental": false,
+      "source": "https://shaders.fluxpic.com/metaballs"
+    },
+    {
+      "file": "assets/B03-20261112-15-玫瑰光束.png",
+      "batch": "B03",
+      "name": "15-玫瑰光束",
+      "style": "god-rays",
+      "colors": [
+        "#C3A1AB",
+        "#EEDDE1",
+        "#956776",
+        "#F0EBEB",
+        "#DFD6D9"
+      ],
+      "use": "标题页、光束焦点与局部强调",
+      "experimental": false,
+      "source": "https://shaders.fluxpic.com/god-rays"
+    },
+    {
+      "file": "assets/B03-20261112-16-纤细螺旋.png",
+      "batch": "B03",
+      "name": "16-纤细螺旋",
+      "style": "spiral",
+      "colors": [
+        "#F0EBEB",
+        "#C3A1AB"
+      ],
+      "use": "节奏、路径与纤细线条装饰",
+      "experimental": false,
+      "source": "https://shaders.fluxpic.com/spiral"
+    },
+    {
+      "file": "assets/B03-20261112-17-玫瑰漩涡.png",
+      "batch": "B03",
+      "name": "17-玫瑰漩涡",
+      "style": "swirl",
+      "colors": [
+        "#F0EBEB",
+        "#EEDDE1",
+        "#C3A1AB",
+        "#956776"
+      ],
+      "use": "品牌章节、主题页与旋涡装饰",
+      "experimental": false,
+      "source": "https://shaders.fluxpic.com/swirl"
+    },
+    {
+      "file": "assets/B03-20261112-18-粉色发光边框.png",
+      "batch": "B03",
+      "name": "18-粉色发光边框",
+      "style": "pulsing-border",
+      "colors": [
+        "#F0EBEB",
+        "#C3A1AB",
+        "#956776",
+        "#EEDDE1"
+      ],
+      "use": "标题边框与局部视觉点缀",
+      "experimental": false,
+      "source": "https://shaders.fluxpic.com/pulsing-border"
+    },
+    {
+      "file": "assets/B03-20261112-19-层叠色板.png",
+      "batch": "B03",
+      "name": "19-层叠色板",
+      "style": "color-panels",
+      "colors": [
+        "#F0EBEB",
+        "#EEDDE1",
+        "#C3A1AB",
+        "#DFD6D9",
+        "#B8A8AD",
+        "#956776"
+      ],
+      "use": "层叠结构、色板展示与构图探索",
+      "experimental": false,
+      "source": "https://shaders.fluxpic.com/color-panels"
+    },
+    {
+      "file": "assets/B03-20261112-20-实验-浅粉字符.png",
+      "batch": "B03",
+      "name": "20-实验-浅粉字符",
+      "style": "letter-glitch",
+      "colors": [
+        "#F0EBEB",
+        "#DFD6D9",
+        "#C3A1AB",
+        "#B8A8AD"
+      ],
+      "use": "实验样式；暖白柔粉字符肌理，供局部探索",
+      "experimental": true,
+      "source": "https://shaders.fluxpic.com/letter-glitch"
+    },
+    {
+      "file": "assets/B03-20261112-21-实验-粉色终端.png",
+      "batch": "B03",
+      "name": "21-实验-粉色终端",
+      "style": "faulty-terminal",
+      "colors": [
+        "#C3A1AB"
+      ],
+      "use": "实验样式；黑底柔粉字符，不推荐品牌主视觉",
+      "experimental": true,
+      "source": "https://shaders.fluxpic.com/faulty-terminal"
+    }
+  ],
+  "previews": [
+    {
+      "file": "assets/B01-20261111-overview.jpg",
+      "batch": "B01",
+      "use": "首批配色探索整套预览，正式使用请取PNG原图。"
+    },
+    {
+      "file": "assets/B02-20261111-overview.jpg",
+      "batch": "B02",
+      "use": "核心抖动纹理整套预览，正式使用请取PNG原图。"
+    },
+    {
+      "file": "assets/B03-20261112-overview.jpg",
+      "batch": "B03",
+      "use": "Shader风格素材整套预览，正式使用请取PNG原图。"
+    },
+    {
+      "file": "assets/B03-20261112-featured.jpg",
+      "batch": "B03",
+      "use": "9张精选横图预览，正式使用请取PNG原图。"
+    }
+  ]
+}
